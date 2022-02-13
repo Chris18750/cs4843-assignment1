@@ -6,7 +6,7 @@ This Github respository contains the source code for a website that uses the Ama
 * [S3](#s3)
 * [Cloud Front](#cloud-front)
 * [Policies](#policies)
-* [Website Access](#access)
+* [Website Access](#website-access)
 
 ## Website Structure
 The website contains 5 pages created through HTML and contains multiple pictures and one video.
