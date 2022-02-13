@@ -22,5 +22,5 @@ The projects AWS S3 buckect is linked to the the AWS CloudFront alowing all the 
 Policies are used in AWS in order to set permissions for users. This project uses an AWS policy that only allows the AWS CloudFront to get any object within the AWS S3 bucket used for storing the website's files. Any user can get theses files only if they have the correct URL provided by the AWS CloudFront that is linked to the project's AWS S3 bucket.
 
 ## Website Access
-The website can be accessed using the following URL 
+The website can be accessed using the following URL. 
 https://d1kmp53kdtnsd8.cloudfront.net/
