@@ -1,5 +1,5 @@
 # cs4843-assignment 1
-This Github respository contains the source code for a website that uses the Amazon Web Services S3 web service to store these files and the Amazon CloudFront to deliver theses files. This cloud infrastructure is used in order to host this website and is secured using IAM Policies.
+This Github respository contains the source code for a website that uses the Amazon Web Services S3 web service to store these files and the Amazon CloudFront to deliver these files. This cloud infrastructure is used in order to host this website and is secured using IAM Policies.
 
 ## Table of contents
 * [Website Structure](#website-structure)
